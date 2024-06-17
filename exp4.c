@@ -1,5 +1,3 @@
-STACK USING ARRAY
-
 #include <stdio.h>
 #define MAX 5
 int Stack[MAX], top = -1;
