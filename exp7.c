@@ -1,5 +1,3 @@
-ARRAY
-
 #include <stdio.h>
 #define MAX 5
 int Queue[MAX], front = -1, rear = -1;
